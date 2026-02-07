@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-arabic-minimalist-freedom-constraint",
+  "title": "The Silence After the Pulse",
+  "tagline": "In a world defined by rigid law and ritual, a woman's quiet rebellion is measured in the space between a breath and a word.",
+  "target_words": 75439,
+  "actual_words": 75439,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Interiority vs. Obligation",
+    "The Architecture of Silence",
+    "The Geography of Confinement",
+    "The Ephemeral Nature of Freedom"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Stone's True Chill",
+      "words": 6858
+    },
+    {
+      "ch": 2,
+      "title": "A Desert Full of Leaving",
+      "words": 6858
+    },
+    {
+      "ch": 3,
+      "title": "Black Cut-Outs Against the Sun",
+      "words": 6858
+    },
+    {
+      "ch": 4,
+      "title": "A City of Filigreed Brass",
+      "words": 6858
+    },
+    {
+      "ch": 5,
+      "title": "The Diorama of Arrested Breath",
+      "words": 6858
+    },
+    {
+      "ch": 6,
+      "title": "Digested by the Dark",
+      "words": 6858
+    },
+    {
+      "ch": 7,
+      "title": "The Heart's Last Exhalation",
+      "words": 6858
+    },
+    {
+      "ch": 8,
+      "title": "A Bloom of Malevolent Light",
+      "words": 6858
+    },
+    {
+      "ch": 9,
+      "title": "Through the Screaming Throat",
+      "words": 6858
+    },
+    {
+      "ch": 10,
+      "title": "The Silence After the Pulse",
+      "words": 6858
+    },
+    {
+      "ch": 11,
+      "title": "A Coalescence of Neglected Pain",
+      "words": 6858
+    }
+  ]
+}
